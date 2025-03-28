@@ -50,4 +50,11 @@ aynı `bridge` ağında birlikte çalışacak şekilde ayağa kaldırılır. Tü
 - Küçük işlemlerde OpenMP daha hızlıdır.
 - Büyük, dağıtık sistemlerde MPI ile daha yüksek verim alınır.
 - Bu projede ikisi bir arada kullanılarak hem düğümler arası hem de çekirdek içi paralellik sağlanmıştır.
+## 🎬 Proje Tanıtım Videosu
+
+Bu videoda projenin genel yapısı ve nasıl çalıştığı gösterilmektedir:
+
+[👉 Videoyu İzlemek İçin Tıklayın](https://drive.google.com/file/d/VIDEO_ID/view?usp=sharing)
+
+> 📌 Not: Videoya erişim için paylaşım ayarlarının “Bağlantıya sahip olan herkes görüntüleyebilir” olarak ayarlandığından emin olun.
 
