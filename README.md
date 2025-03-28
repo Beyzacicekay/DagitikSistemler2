@@ -54,7 +54,7 @@ aynı `bridge` ağında birlikte çalışacak şekilde ayağa kaldırılır. Tü
 
 Bu videoda projenin genel yapısı ve nasıl çalıştığı gösterilmektedir:
 
-[👉 Videoyu İzlemek İçin Tıklayın](https://drive.google.com/file/d/166ibEv2EU_5am74Ymkdx77pJgIpN0oAq/view?usp=drive_link)
+[👉 Videoyu İzlemek İçin Tıklayın](https://drive.google.com/file/d/1sSY4mJvDpVv0Xq26ejyGWOeXJ4HlDyRI/view?usp=sharing)
 
-> 📌 Not: Videoya erişim için paylaşım ayarlarının “Bağlantıya sahip olan herkes görüntüleyebilir” olarak ayarlandığından emin olun.
+
 
