@@ -14,7 +14,6 @@ Bu proje, **MPI (Message Passing Interface)** ve **OpenMP (Open Multi-Processing
 
 ## 🧱 Proje Yapısı
 
-```plaintext
 .
 ├── Dockerfile
 ├── docker-compose.yml
@@ -61,4 +60,3 @@ aynı `bridge` ağında birlikte çalışacak şekilde ayağa kaldırılır. Tü
 - Büyük, dağıtık sistemlerde MPI ile daha yüksek verim alınır.
 - Bu projede ikisi bir arada kullanılarak hem düğümler arası hem de çekirdek içi paralellik sağlanmıştır.
 
----
