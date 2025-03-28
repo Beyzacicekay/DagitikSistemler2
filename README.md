@@ -10,15 +10,6 @@ Bu proje, **MPI (Message Passing Interface)** ve **OpenMP (Open Multi-Processing
 - Her düğümde OpenMP ile paralel işlem yapmak.
 - Sonuçları sırayla işleyip en sonunda master düğüme ulaştırmak.
 
----
-
-## 🧱 Proje Yapısı
-
-.
-├── Dockerfile
-├── docker-compose.yml
-├── main.c
-└── README.md
 
 ---
 
